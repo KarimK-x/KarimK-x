@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 Currently Learning:<br>- Classical Machine Learning<br>- Diving deep into DeepLearning and NLP<br>- Data Structures and Algorithms<br>- Software Testing <br><br>⚡ Fun fact<br>- Love AI. Hate the AI Hype.
+🔭 Currently Learning:<br>
+- Classical Machine Learning<br>
+- Diving deep into DeepLearning and NLP<br>
+- Software Testing
+- Data Structures and Algorithms<br><br>
+
+⚡ Fun fact<br>
+- Love AI. Hate the AI Hype.
 
 
 ## 🌐 Socials:
