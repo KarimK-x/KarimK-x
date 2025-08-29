@@ -2,7 +2,7 @@
 🔭 Currently Learning:<br>
 - Classical Machine Learning<br>
 - Diving deep into DeepLearning and NLP<br>
-- Software Testing
+- Software Automation Testing
 - Data Structures and Algorithms<br><br>
 
 ⚡ Fun fact<br>
